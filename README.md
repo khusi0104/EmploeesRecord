@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-Your local version
-=======
-GitHub version
->>>>>>> origin/main
+# EmploeesRecord
+
+This is my React-based UI for employee records...
